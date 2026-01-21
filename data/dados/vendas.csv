@@ -1,0 +1,9 @@
+data,produto,categoria,quantidade,preco_unitario,custo_unitario
+2024-01-05,Notebook,Eletrônicos,2,3500,2800
+2024-01-07,Mouse,Eletrônicos,5,120,60
+2024-01-10,Cadeira,Escritório,1,900,600
+2024-01-15,Teclado,Eletrônicos,3,200,120
+2024-01-18,Monitor,Eletrônicos,2,1200,850
+2024-01-22,Headset,Eletrônicos,4,300,180
+2024-01-25,Mesa,Escritório,1,1500,1000
+2024-01-28,Mousepad,Acessórios,6,50,20
